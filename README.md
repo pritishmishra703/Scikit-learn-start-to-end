@@ -1,16 +1,12 @@
-# Under the hood of Machine learning Algos
+# Scikit Learn Start to End
 
-This is GitHub Repo is associated with this YouTube Playlist :
+In this Repository, I have made Jupyter Notebooks (well-decorated and understandble to anyone) of many Machine Learning Algorithms using Scikit Learn. I have just explored Scikit learn package in all this Repos and used Graphs to visualize these algorithms in as intutive way as possible.
 
-https://www.youtube.com/playlist?list=PLLYdRMXqtvSe4qVfoTmpqckQbU8-XQYb_
+![image](https://user-images.githubusercontent.com/55872694/125040691-93e6a200-e0b5-11eb-81f6-e24e2a82cfce.png) ![image](https://user-images.githubusercontent.com/55872694/125040996-e1630f00-e0b5-11eb-8bc2-fc6bd4398987.png) ![image](https://user-images.githubusercontent.com/55872694/125041076-fa6bc000-e0b5-11eb-9659-1ff708ed3922.png)
 
 
-We Often don't take care of What is Happening Under the Hood of all this Algorithm but learning Mathematics is EQUALLY very Important or you will not be able to understand the Real World Problems but we make these Tough and Confusing things Easy To Grasp. The only Pre-requisite is that you should be very Enthusiast to learn this because a Lack of Concentration can end with Dangerous Results.
+My YouTube Channel where I make everyting related to AI: https://www.youtube.com/c/PritishMishra/videos
 
-## What's the Playlist all about ?
+If you want to know, How this Algorithms works and want to go in Mathematical details see my this Repo: https://github.com/pritishmishra703/MLthon
 
-In that youtube playlist I am making videos for those who want to learn Machine learning but my main moto is to teach all the 
-mathematics stuff behind it or we can say what's happening under the Hood of this algorithms. I have used Animation that make learning very much easier!
-
-First you will know all the Mathematics stuffs and we'll do math by hand then we will do the same with Scikit-learn and then we will make our ***OWN*** machine learning
-Algorithm.
+If you want to know, How Deep learning Algorithms works see this Repo (I have just started making this):https://github.com/pritishmishra703/MLthon
